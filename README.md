@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshkumar
 - 👀 I’m interested in Python and problem Solving
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Google Cloud Platform
 - 📫 How to reach me www.linkedin.com/in/yogesh-kumar369
 
 <!---
