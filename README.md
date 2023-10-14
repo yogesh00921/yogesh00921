@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yogeshkumar
-- 👀 I’m interested in Frontend Development and problem Solving
+- 👀 I’m interested in Frontend Development and Explore in new technology
 - 🌱 I’m currently learning Frontend Development
 - 🌱 I have complete knowledge in HTML5 & CSS and also in Google Cloud Platform 
 - 📫 How to reach me www.linkedin.com/in/yogesh-kumar369
